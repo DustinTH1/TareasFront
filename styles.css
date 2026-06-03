@@ -1,0 +1,44 @@
+body {
+    background: aliceblue;
+}
+.line {
+    height: 2px; 
+    background-color: tomato;
+}
+ul {
+    background-color: antiquewhite;
+}
+h2{
+    background-color: tomato;
+    text-align: center;
+    font-size: 30px;
+}
+img {
+    width: 250px;
+}
+h3{
+    color: #27B0F5;
+    font-size: 30px;
+}
+.h1{
+    background-color: tomato;
+}
+.titulo {
+    font-size: 100px; 
+    color: tomato;
+    margin: 0;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-size: 22px;
+}
+ul{
+    font-size: 20px;
+}
+ol {
+    font-size: 20px;
+}
+.easter-egg{
+    color: tomato;
+}
